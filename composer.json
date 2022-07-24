@@ -1,12 +1,9 @@
 {
-	"name": "webengine-blueprints/empty",
-	"description": "A blueprint with only the necessary files in place.",
+	"name": "webengine-blueprints/hello-world",
+	"description": "The ubiquitous starter project.",
 
 	"require": {
 		"phpgt/webengine": "dev-master"
-	},
-	"require-dev": {
-		"phpunit/phpunit": "^9.5.0"
 	},
 
 	"autoload": {
